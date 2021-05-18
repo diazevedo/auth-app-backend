@@ -25,7 +25,7 @@
     "uuid": "^8.3.2"
   },
   "scripts": {
-    "dev": "npx nodemon ./src/server.js",
-    "start": "node ./src/server.js" 
+    "dev": "npx nodemon ./src/index.js",
+    "start": "node ./src/index.js"
   }
 }
